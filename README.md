@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file content that you can use for your C# console application that calculates the average grade from 21 grades:
-
----
-
 # Average Grade Calculator
 
 This C# console application calculates the average grade from 21 grades entered by the user. It ensures that each grade entered is within the valid range of 2.00 to 6.00.
@@ -50,7 +46,3 @@ Grade 6: 3.0
 Grade 21: 4.0
 Average grade: 4.10
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
